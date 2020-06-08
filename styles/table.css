@@ -1,0 +1,96 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+    background-color: rgb(235, 235, 235);
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 2em;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9em;
+    border: 1px solid;
+    text-align: center;
+    background-color: rgb(233, 231, 231);
+}
+
+thead {
+    background-color: blue;
+    color: whitesmoke;
+}
+
+tbody {
+    border: 1px solid;
+}
+
+th {
+    border-bottom: 2px solid black;
+}
+.team {
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 0.1em;
+    background-color: white;
+    color: rgb(68, 68, 67);
+}
+
+.color-1 {
+    background-color: rgb(95, 247, 8);
+}
+
+.color-2 {
+    background-color: rgb(148, 220, 253);
+}
+
+.color-3 {
+    background-color: rgb(253, 255, 153);
+}
+
+.color-4 {
+    background-color: rgb(255, 143, 143);
+}
+
+.logo {
+    background-color: honeydew;
+}
+
+.position {
+    background-color: white;
+    color: rgb(73, 73, 73);
+    font-weight: bold;
+}
+
+.position-1-4 {
+    background-color: white;
+    color: rgb(60, 156, 5);
+    font-weight: bold;
+}
+
+.position-5-6{
+    background-color: white;
+    color: rgb(29, 152, 209);
+    font-weight: bold;
+}
+
+.position-7{
+    background-color: white;
+    color: rgb(199, 202, 37);
+    font-weight: bold;
+}
+
+.position-18-20{
+    background-color: white;
+    color: rgb(218, 49, 49);
+    font-weight: bold;
+}
+
+.points {
+    font-weight: 800;
+}
